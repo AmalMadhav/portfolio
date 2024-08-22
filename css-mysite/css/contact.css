@@ -1,0 +1,22 @@
+body{
+    background-color:#980002 ;
+}
+.text{
+    background-color:#980002 ;
+    border: none;
+   border-bottom: 2px solid rgb(0, 0, 0);
+   width: 80%;
+   position: relative;
+   left: 150px;
+   height: 54px;
+   
+}
+.text-t{
+    font-family: "Caveat", cursive;
+    color: beige;
+    position: relative;
+    left: 150px;
+    font-size: 1.5em;
+
+}
+.button1 {background-color: #04AA6D;}

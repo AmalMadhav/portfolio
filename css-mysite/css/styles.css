@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    
+}
+link {
+    display: none;
+}
+.amal{
+  font-family: "Sacramento", cursive;
+  color: beige;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 5.5em;
+  position: absolute;
+  bottom: 50px;
+  left: 110px;
+  
+}
+.pro{
+    font-family: "Caveat", cursive;
+    color: beige;
+    font-weight: 300;
+    font-size: 2em;
+    position: absolute;
+    bottom: 20px;
+    left: 180px;
+
+}
+.first{
+    background-color:#980002 ;
+    height: 768px;;
+    width: 100%;
+    padding-top: 50px;
+   
+}
+.selfie{
+    position: absolute;
+    right: 100px;
+}
+.detail{
+    background-color:azure;
+    height: 250px;
+    width: 100%;
+    margin: 0 auto 0 auto;
+}
+
+.black{
+    background-color: beige;
+    width: 93%;
+    height: 150px;
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 50px;
+}
+.quote{
+    font-family: "Caveat", cursive;
+    color: black;
+    font-weight: 500;
+    font-size: 1.6em;
+    position: absolute;
+    top: 35px;
+    right: 135px;
+}
+/* .copyright{
+    size: 2px;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    bottom: 0;
+    right: 135px;
+
+}
+.copytext{
+    font-size: 3em;
+    position: relative;
+    bottom: 1px;
+    right: 135px;
+} */
+.a{
+  
+ font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 1.5em;
+  color: darkgray;
+}
+.continfo{
+    position: absolute;
+    bottom: 15px;
+    left: 400px;
+
+}
